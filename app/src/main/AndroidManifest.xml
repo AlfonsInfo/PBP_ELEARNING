@@ -14,7 +14,7 @@
         android:theme="@style/Theme.PBP_ELEARNING"
         tools:targetApi="31">
         <activity
-            android:name=".MainActivity"
+            android:name=".loginActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
